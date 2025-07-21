@@ -1,0 +1,3 @@
+---
+name: 'Nifty Assignments'
+---

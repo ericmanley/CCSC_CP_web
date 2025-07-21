@@ -1,0 +1,24 @@
+﻿session_id,session_title,type,plenary,moderator,day,start_time,end_time,room,remote,description
+fri-pcw,Pre-Conference Workshop,Workshop,,Joan Gladbach,4/4/25,9:00,12:00,C-S 301,,
+fri-lunch,Lunch Break,Break,TRUE,,4/4/25,12:00,13:00,Des Moines Restaurants,,Lunch on your own
+fri-welcome,Welcome & Keynote,Plenary,TRUE,Eric Manley,4/4/25,13:00,14:15,Shivers,,
+fri-1a,Student Success,Session,,Tim Urness,4/4/25,14:30,15:30,C-S 301,,
+fri-1b,AI Program Panel,Panel,,Mahmoud Yousef,4/4/25,14:30,15:30,C-S 207,,
+fri-1c,Partner Presentation,Workshop,,Judy Mullins,4/4/25,14:30,15:30,C-S 235,,
+fri-break1,Break,Break,TRUE,,4/4/25,15:30,16:15,C-S 308 and Halls,,
+fri-2a,Curriculum and Course Design,Session,, Andrei Migunov,4/4/25,16:15,17:15,C-S 301,,
+fri-2b,Nifty Assignments,Session,,Mohammad Rawashdeh,4/4/25,16:15,17:15,C-S 207,,
+fri-2c,Codespaces and Containers Tutorial,Workshop,,Kevin Brunner,4/4/25,16:15,17:15,C-S 235,,
+fri-break2,Break,Break,TRUE,,4/4/25,17:15,17:45,C-S 308 and Halls,,"Board Meeting (C-S 301), Meet and Greet"
+fri-banquet,Conference Banquet,Plenary,TRUE,Eric Manley,4/4/25,18:00,19:45,Shivers,,
+sat-0b,Hack-a-thon Presetations,Student,,Scott Sigman,4/5/25,8:30,9:00,Olin 101,,
+sat-0c,Poster Contest Setup,Student,,Joseph Kendall-Morwick,4/5/25,8:30,9:00,C-S 308 and Halls,,
+sat-1a,Assignments and Assessments,Session,,Brian Hare,4/5/25,9:00,10:00,C-S 301,,
+sat-1b,Hack-a-thon Presentations,Student,,Scott Sigman,4/5/25,9:00,10:00,Olin 101,,
+sat-1c,Poster Contest,Student,,Joseph Kendall-Morwick,4/5/25,9:00,10:00,C-S 308 and Halls,,
+sat-break,Break,Break,TRUE,,4/5/25,10:00,10:30,C-S 308 and Halls,,Refreshments and Poster Viewing
+sat-2a,Bridging Education and Industry,Session,,Bill Siever,4/5/25,10:30,12:00,C-S 301,,
+sat-2b,Hack-a-thon Presetations,Student,,Scott Sigman,4/5/25,10:30,12:00,Olin 101,,
+sat-2c,Lightning Talks and Student Paper,Session,,Aziz Fellah,4/5/25,10:30,12:00,C-S 308 and Halls,,(talks in C-S 308)
+sat-lunch,Conference Luncheon,Plenary,TRUE,Eric Manley,4/5/25,12:00,13:00,Shivers,,"Lunch, Awards, and Meeting"
+sat-progcontest,Student Programming Contest,Student,TRUE,Tim Urness,4/5/25,13:00,17:00,Upper Carnegie,,Includes pizza for participants

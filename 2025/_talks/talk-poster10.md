@@ -1,0 +1,12 @@
+---
+name: 'Desocial: Redefining Connection with Decentralized Trust'
+speakers:
+  - Sudha Sravya Gandla
+  - Deepika Mukku
+  - Zhengrui Qin
+categories:
+  - Poster
+program_hide: true
+---
+
+Traditional social media platforms are built on centralized architectures that concentrate control over user data and content moderation in the hands of a few large entities. This structure often leads to issues such as data privacy breaches, content censorship, and arbitrary governance. In these systems, decisions about what content is allowed or removed are made without community input, which can result in bias, manipulation, and lack of accountability. Additionally, centralized servers are vulnerable to failures and unauthorized control, risking both the security and integrity of user-generated content.  The centralization of social media poses significant challenges in today’s digital landscape. Users increasingly demand privacy and autonomy over their personal data, as well as transparent processes for content moderation. Without decentralized control, there is a growing risk of censorship and the suppression of diverse opinions. Moreover, reliance on centralized servers not only creates single points of failure but also makes platforms susceptible to exploitation and manipulation. As digital interactions continue to grow, ensuring a secure, fair, and resilient online environment becomes crucial for protecting individual rights and promoting trust among users.  In this poster, we propose DeSocial that offers a decentralized alternative by leveraging blockchain technology, smart contracts, and decentralized storage systems like IPFS. In DeSocial, users retain full ownership of their data, while a validator-based governance model ensures that content moderation is conducted transparently and impartially. Disputes such as copyright claims, content violations, or misinformation are resolved by randomly selected validators whose decisions are recorded on-chain, ensuring accountability and fairness. Token-based incentives keep validators engaged and motivated to maintain unbiased moderation. By moving away from centralized control and utilizing decentralized storage, DeSocial not only enhances security and user privacy but also minimizes single points of failure, paving the way for a more democratic, censorship-resistant digital communication landscape.

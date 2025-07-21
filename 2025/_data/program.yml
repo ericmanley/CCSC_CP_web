@@ -1,0 +1,228 @@
+days:
+- name: Friday
+  abbr: Fri
+  date: 2025-04-04
+  rooms:
+  - name: C-S 301
+    sessions:
+    - name: Pre-Conference Workshop
+      category: 'Workshop'
+      plenary: false
+      time_start: '9:00'
+      time_end: '12:00'
+      moderator: 'Joan Gladbach'
+      talks: 
+      - name: 'Teaching with AI (GPT)'
+    - name: Student Success
+      category: 'Session'
+      plenary: false
+      time_start: '14:30'
+      time_end: '15:30'
+      moderator: 'Tim Urness'
+      talks: 
+      - name: 'Improving Student Success Through Parachuting'
+      - name: 'Impact of COVID-19 on Live-Coding in First-Year Computer Science Education: A Literature Review'
+      - name: 'The Impact of Class Size and Course Modality on Student Learning Outcomes: A Case Study of Applying Infrastructure as Code Principles in IS/Cyber Graduate Course Design'
+    - name: Curriculum and Course Design
+      category: 'Session'
+      plenary: false
+      time_start: '16:15'
+      time_end: '17:15'
+      moderator: ' Andrei Migunov'
+      talks: 
+      - name: 'Getting Your Hands Dirty: Teaching an IoT Course with an Interdisciplinary Component'
+      - name: 'Creating a Consolidated 3-in-1 Multi-B.S. Program Structure in a Resource-Limited Computer Science & IT Department to Achieve ABET Accreditation for All Three Programs'
+      - name: 'A Comparison of Three Lab Environments for Digital Forensics Course'
+  - name: Des Moines Restaurants
+    sessions:
+    - name: Lunch Break
+      category: 'Break'
+      plenary: true
+      description: 'Lunch on your own'
+      time_start: '12:00'
+      time_end: '13:00'
+  - name: Shivers
+    sessions:
+    - name: Welcome & Keynote
+      category: 'Plenary'
+      plenary: true
+      time_start: '13:00'
+      time_end: '14:15'
+      moderator: 'Eric Manley'
+      talks: 
+      - name: 'Accessible Computing: What Every CS Educator Should Know'
+    - name: Conference Banquet
+      category: 'Plenary'
+      plenary: true
+      time_start: '18:00'
+      time_end: '19:45'
+      moderator: 'Eric Manley'
+      talks: 
+      - name: 'AI Engineering: Lessons from the Frontlines'
+  - name: C-S 207
+    sessions:
+    - name: AI Program Panel
+      category: 'Panel'
+      plenary: false
+      time_start: '14:30'
+      time_end: '15:30'
+      moderator: 'Mahmoud Yousef'
+      talks: 
+      - name: 'Prompting Collaboration: Development of an Interdisciplinary Applied AI Minor Program'
+    - name: Nifty Assignments
+      category: 'Session'
+      plenary: false
+      time_start: '16:15'
+      time_end: '17:15'
+      moderator: 'Mohammad Rawashdeh'
+      talks: 
+      - name: 'Remote Protocol Analysis Lab'
+      - name: 'Dynamic Bracketology with C++ AI for NCAA March Madness'
+      - name: 'Teaching Cellular Concepts: An Into With GSM'
+  - name: C-S 235
+    sessions:
+    - name: Partner Presentation
+      category: 'Workshop'
+      plenary: false
+      time_start: '14:30'
+      time_end: '15:30'
+      moderator: 'Judy Mullins'
+      talks: 
+      - name: 'Creating Effective Learning Outcomes and Competencies with Bloom’s for Computing'
+    - name: Codespaces and Containers Tutorial
+      category: 'Workshop'
+      plenary: false
+      time_start: '16:15'
+      time_end: '17:15'
+      moderator: 'Kevin Brunner'
+      talks: 
+      - name: "An Instructor's Introduction to Codespaces & Development Containers"
+  - name: C-S 308 and Halls
+    sessions:
+    - name: Break
+      category: 'Break'
+      plenary: true
+      time_start: '15:30'
+      time_end: '16:15'
+    - name: Break
+      category: 'Break'
+      plenary: true
+      description: 'Board Meeting (C-S 301), Meet and Greet'
+      time_start: '17:15'
+      time_end: '17:45'
+- name: Saturday
+  abbr: Sat
+  date: 2025-04-05
+  rooms:
+  - name: C-S 301
+    sessions:
+    - name: Assignments and Assessments
+      category: 'Session'
+      plenary: false
+      time_start: '9:00'
+      time_end: '10:00'
+      moderator: 'Brian Hare'
+      talks: 
+      - name: 'Domino Tilings: Projects and Assignments for Students'
+      - name: 'Pedagogical Evaluation of Generative AI course for Technologists'
+    - name: Bridging Education and Industry
+      category: 'Session'
+      plenary: false
+      time_start: '10:30'
+      time_end: '12:00'
+      moderator: 'Bill Siever'
+      talks: 
+      - name: 'Adapt DevOps Method to Information Systems Capstone Course Projects'
+      - name: 'Developing a Enterprise Application Tool to Discover Midwest Job Trends'
+      - name: 'Internship Experience Sharing'
+  - name: Shivers
+    sessions:
+    - name: Conference Luncheon
+      category: 'Plenary'
+      plenary: true
+      description: 'Lunch, Awards, and Meeting'
+      time_start: '12:00'
+      time_end: '13:00'
+      moderator: 'Eric Manley'
+  - name: C-S 308 and Halls
+    sessions:
+    - name: Poster Contest Setup
+      category: 'Student'
+      plenary: false
+      time_start: '8:30'
+      time_end: '9:00'
+      moderator: 'Joseph Kendall-Morwick'
+    - name: Poster Contest
+      category: 'Student'
+      plenary: false
+      time_start: '9:00'
+      time_end: '10:00'
+      moderator: 'Joseph Kendall-Morwick'
+      talks: 
+      - name: 'Semantic Analysis of AI’s Societal Impact'
+      - name: 'Enhancing Adjunct Faculty Performance Prediction by Applying SMOTE Techniques'
+      - name: 'Leveraging the capabilities of MapReduce and Big Data frameworks, real-time analysis is performed on extensive datasets extracted from social media platforms, like Twitter, and news outlets'
+      - name: 'YouTube video trends to provide content creators with data-driven strategies for enhanced performance'
+      - name: 'A Comparative Analysis of AI-Driven Webpage Creation'
+      - name: 'AI-Powered Pet Adoption: A .NET MAUI-Based Platform to Help Pets Find Loving Homes'
+      - name: 'Network Traffic Analysis for Malicious Activity Detection'
+      - name: 'Machine Learning for Bank Failure Prediction: Enhancing Early Warning Systems'
+      - name: 'Desocial: Redefining Connection with Decentralized Trust'
+      - name: 'INADS: A Multi-Layered Machine Learning Architecture for Anomaly Detection in Critical Network Infrastructures'
+      - name: 'The Future of AI: A Double-Edged Sword'
+      - name: 'Fresh Track App: Food Expiration Monitoring and Management '
+      - name: 'Domain Randomization using Synthetic Data for Grease Bin Semantic Segmentation'
+      - name: 'Evaluating the Efficacy of Body Doubling for ADHD Using a Brain-Computer Interface'
+      - name: 'Comparison of Classification between Artificial Intelligence and Machine Learning'
+      - name: 'Analyzing Emotional Expression in TikTok Videos Through Semantic Segmentation'
+      - name: 'Optimizing Analog Computation: A Smart Dual-Railing Approach for Efficient Compilation'
+      - name: 'MedBot for Conversational Interaction with Audio Email Attachments'
+      - name: 'Precipitation Quest - Game'
+      - name: 'Redox : Protect the World'
+    - name: Break
+      category: 'Break'
+      plenary: true
+      description: 'Refreshments and Poster Viewing'
+      time_start: '10:00'
+      time_end: '10:30'
+    - name: Lightning Talks and Student Paper
+      category: 'Session'
+      plenary: false
+      description: '(talks in C-S 308)'
+      time_start: '10:30'
+      time_end: '12:00'
+      moderator: 'Aziz Fellah'
+      talks: 
+      - name: 'EVA: An Experiment in Introducing AI Assistants in Linux Operating Systems'
+      - name: 'Argument for a flipped classroom in CS, IT and Cyber education'
+      - name: 'Model-based design of dependable edge node devices for IoT'
+      - name: 'Building AI-Powered Responsible Workforce by Integrating LLMs into CS Curriculum'
+  - name: Olin 101
+    sessions:
+    - name: Hack-a-thon Presetations
+      category: 'Student'
+      plenary: false
+      time_start: '8:30'
+      time_end: '9:00'
+      moderator: 'Scott Sigman'
+    - name: Hack-a-thon Presentations
+      category: 'Student'
+      plenary: false
+      time_start: '9:00'
+      time_end: '10:00'
+      moderator: 'Scott Sigman'
+    - name: Hack-a-thon Presetations
+      category: 'Student'
+      plenary: false
+      time_start: '10:30'
+      time_end: '12:00'
+      moderator: 'Scott Sigman'
+  - name: Upper Carnegie
+    sessions:
+    - name: Student Programming Contest
+      category: 'Student'
+      plenary: true
+      description: 'Includes pizza for participants'
+      time_start: '13:00'
+      time_end: '17:00'
+      moderator: 'Tim Urness'

@@ -1,0 +1,268 @@
+﻿session_id,program_hide,paper ID,contribution type,authors,organisations,title,Abstract,file,image
+sat-2a,,100,Paper,"Zhao, Gary Yu;
+Tu, Cindy Zhiling",Northwest Missouri State University,Adapt DevOps Method to Information Systems Capstone Course Projects,"Abstract
+This paper explores the design of a DevOps-based information systems
+(IS) capstone course in a Master of Science in Information Systems
+program. The researchers aim to investigate this teaching case to gather
+direct student feedback and provide insights for instructors to adapt
+the DevOps method in IS capstone projects. The study addresses the
+research questions and identifies key findings through inductive content
+analysis of 32 student feedback responses from two consecutive semesters.
+The preliminary results contribute to the field of information systems education
+and encourage more instructors to engage with DevOps-based IS
+capstone projects.",,
+fri-1a,,101,Paper,"Bourke, Chris;
+Ghose, Nirnimesh",University of Nebraska-Lincoln,Improving Student Success Through Parachuting,"Abstract
+We report on our experience implementing a parachute program that
+identifies struggling students in a Computer Science I course and invites
+them to ""parachute"" out and start over mid-semester in a lower-level
+computing course that still confers credit toward their degree program.
+This program gives students a second chance at success, aims to improve
+student outcomes in early computing curricula, and to improve retention
+overall in computing majors.",,
+fri-2a,,103,Paper,"Eloe, Nathan W. (1);
+Taylor, Alexander W. (2)","1: School of Computer Science and Information Systems, Northwest Missouri State University; 2: School of Agricultural Sciences, Northwest Missouri State University",Getting Your Hands Dirty: Teaching an IoT Course with an Interdisciplinary Component,"Abstract
+Project-based computer science classes are nothing new; considerable
+effort goes into creating relevant and realistic educational experiences for
+students to learn and demonstrate mastery of core learning outcomes.
+Finding projects that can engage and interest students while still meeting required educational outcomes can be a difficult task, but local opportunities can lead to successful student experiences. This paper details
+the authors' experiences in adopting an interdisciplinary approach to a
+project-based Internet of Things course. The intent is to expose students
+to other areas to drive engagement and interest while also benefitting the
+larger university community.
+",,
+fri-2b,,105,"""Nifty"" Assignment","Ham, Michael J.",Dakota State University,Remote Protocol Analysis Lab,,,
+fri-2a,,107,Paper,"Chauhan, Kriti; Lehtola, Katherine; Hulon, Dylan; Sayre, Antoni; Church, James; Lee, Leong",Austin Peay State University,Creating a Consolidated 3-in-1 Multi-B.S. Program Structure in a Resource-Limited Computer Science & IT Department to Achieve ABET Accreditation for All Three Programs,"Abstract
+Most computing departments offer one or two undergraduate programs,
+but the CSIT Department at a mid-south state university offers
+three, all three accredited by the Accreditation Board for Engineering
+and Technology (ABET): Computer Information Systems, Computer Information
+Technology, and Computer Science. In 2018, an integrated
+3-in-1 B.S. program structure was adopted, which earned ABET accreditation
+in 2021-2022. With about 650 majors and 100-150 graduates
+annually, the streamlined curriculum has optimized resources and contributed
+to the department's success.",,
+fri-2a,,108,Paper,"Qin, Zhengrui",Northwest Missouri State University,A Comparison of Three Lab Environments for Digital Forensics Course,"Abstract
+Nowadays, with the development of cloud computing, various lab environments
+have emerged, which, however, have seldom been compared
+with each other. In this paper, we have conducted a survey on different
+lab environments for Digital Forensics course, i.e. NDG (Network
+Development Group), Cengage MindTap, and running labs on personal
+computers. In the survey, students have expressed their preferences and
+evaluated each lab environment. We believe this study can help instructors
+select the right lab environment for Digital Forensics course or
+similar courses.",,
+fri-1a,,110,Paper,"Kulkarni, Sourabh; Attarwala, Abbas; Raigoza, Jaime","California State University, Chico",Impact of COVID-19 on Live-Coding in First-Year Computer Science Education: A Literature Review,"Abstract
+The COVID pandemic has significantly influenced educational methodologies,
+leading to a shift towards more interactive and technology-integrated
+teaching approaches. Live-coding, which involves real-time coding demonstrations,
+has gained recognition as a valuable tool in computer science
+education. This study investigates the impact of the pandemic
+on the popularity and application of live-coding. By conducting a comprehensive
+literature review of 22 research papers, this study categorizes
+the papers based on their publication date relative to the pandemic:
+pre-COVID (2017 to 2019), during COVID (2020 to 2022), and
+post-COVID (2023 to 2024). The papers were selected using a specific
+search query for live-coding in introductory computer science education
+on Google Scholar. A systematic literature review was performed to determine
+their sentiment towards live-coding, categorizing the sentiments
+as positive, neutral, or negative. The sentiment data were then statistically
+analyzed using Fisher's Exact Test to assess significant differences
+across the three periods. Results from this manuscript indicate shifts in
+positive sentiment towards live-coding during and after the pandemic.
+",,
+sat-2a,,112,Paper,"Bathula, Chandra;
+Weber, Maria",Saint Louis University,Developing a Enterprise Application Tool to Discover Midwest Job Trends,"Abstract
+Significant growth in Computer and Mathematical Occupations can
+be seen in the coming decade while outpacing other fields with a double
+margin of median pay and a high demand for specialized skills driven by
+technological advancements. According to the Bureau of Labor Statistics
+(BLS), between 2023-2033, the United States is projected to see a 11%
+and 7% growth in the Computer and Mathematical Occupations sector
+with more than 393,000 jobs annually [5] [6] [3]. This paper examines
+national trends in Computer and Mathematical Occupations, including
+wages, growth, and a particular focus on the Central Plains region (Iowa,
+Kansas, Missouri, and Nebraska). The median national annual salary for
+these roles varies from $101,000 - $104,000, while their regional pay might
+vary based on geographical development [5] [3]. Among the compared
+states, Missouri has the highest growth rate in the region, with roles
+like Data Scientists and Software Developers leading the chart. While
+Nebraska and Iowa have a moderate growth rate for roles like Data Scientists
+and Information Security Analysts roles, Kansas is projected to
+see a high growth rate in Actuaries. In addition, this study underscores
+the variations in employment per 1000 jobs and growth rates, stressing
+the need for targeted skill development to increase opportunities in this
+evolving and technology-influenced field. Descriptive statistics and visualizations
+are used to explore regional competitiveness and distributions
+by providing information to educators, students, and policy makers.",,
+fri-2b,,114,"""Nifty"" Assignment","Manfredi, Roy Michael",Westminster College,Dynamic Bracketology with C++ AI for NCAA March Madness,,,
+fri-1b,,115,Panel,"Bandi, Ajay; Blackford, Benjamin; Fellah, Aziz; Linville, Diana; Meyer, Trevor; Voss, Robert",Northwest Missouri State University,Prompting Collaboration: Development of an Interdisciplinary Applied AI Minor Program,,,
+sat-1a,,116,Paper,"Brandt, Keith;
+Klasinski, William",Rockhurst University,Domino Tilings: Projects and Assignments for Students,"Abstract
+We describe our work to solve several domino tiling questions. This
+setting provides a wide variety of questions that can be studied by students.
+Skills used include branching, loops, working with lists, recursion,
+and procedural programming.",,
+sat-2a,,117,"""Nifty"" Assignment","Peng, Bin;
+Hsin, Wen-Jung",Park University,Internship Experience Sharing,,,
+fri-2c,,118,Tutorial,"Siever, Bill ", Washington University in St. Louis,An Instructor's Introduction to Codespaces & Development Containers,,,
+fri-2b,,122,"""Nifty"" Assignment","Cronin, Kyle;
+Ham, Michael J.",Dakota State University,Teaching Cellular Concepts: An Into With GSM,,,
+sat-1a,,123,Paper,"Bandi, Ajay",Northwest Missouri State University,Pedagogical Evaluation of Generative AI course for Technologists,"Abstract
+Generative AI is a transformative technology that impacts various
+fields, including software development, data analytics, and cybersecurity.
+To address this, we have designed and developed a Generative AI course
+for technologists, integrating foundational knowledge of various Gen AI
+architecture models with hands-on practical experience using Python libraries,
+including HuggingFace. This paper discusses the detailed course
+structure and assessments. A pedagogical evaluation approach is followed
+to identify the challenges encountered in the course and how to
+overcome them. The results demonstrate that the Generative AI Course
+for Technologists effectively equips students with technical expertise and
+critical thinking skills through a balanced combination of theoretical concepts
+and practical exercises, such as chatbot development and prompt
+engineering. The course addresses challenges like hardware limitations
+and API integration by proposing future improvements, including a dedicated
+Python module and access to cloud-based GPU tools, ensuring
+learners are well-prepared to navigate and ethically apply Generative AI
+in real-world contexts.""",,
+fri-1a,,124,Paper,"Szakonyi, Annamaria",Saint Louis University,The Impact of Class Size and Course Modality on Student Learning Outcomes: A Case Study of Applying Infrastructure as Code Principles in IS/Cyber Graduate Course Design,"Abstract
+This study explores the impact of class size and course modality on
+student learning outcomes, using Infrastructure as Code (IaC) principles
+to design Information Systems and Cybersecurity graduate courses. To
+address challenges like larger class sizes, diverse formats, and AI reliance,
+IaC principles such as scalability, modularity, and repeatability were applied
+to course design. Tools like LMS blueprints and modular templates
+ensured consistency across online and in-person formats. Analysis of student
+feedback and grades showed that smaller classes and individual assignments
+improved outcomes, while group work fostered collaboration.
+The findings suggest that IaC-inspired strategies can improve scalability
+and quality in graduate education.",,
+fri-pcw,,conf-workshop,Workshop,"Zenke, Carter; Liu, Rongxin ",Harvard University,Teaching with AI (GPT),"Teaching computer science at scale can be challenging. From our experience in CS50, Harvard University’s introductory course, we’ve seen firsthand the impactful role generative artificial intelligence (Gen-AI) can play in education. Recognizing its potential and stakes, we integrated OpenAI’s GPT into our own teaching methodology. The goal was to emulate a 1:1 teacher-to-student ratio, incorporating “pedagogical guardrails” to maintain instructional integrity. The result was a personalized, AI-powered bot in the form of a friendly yellow rubber duck aimed at delivering instructional responses and troubleshooting without giving outright solutions. We plan to share our journey and offer insights into responsibly harnessing AI in educational settings. Participants will gain hands-on experience working with GPT through OpenAI’s APIs, understanding and crafting prompts, answering questions using embedding-based search, and finally, building their own AI chatbot. Ultimately, we’ll not only share lessons learned from our own approach but also equip educators hands-on with the knowledge and tools with which they, too, can implement these technologies in their unique teaching environments.",,
+fri-welcome,,opening-keynote,Plenary,"Moore, Meredith",Drake University,Accessible Computing: What Every CS Educator Should Know,"Computer science education plays a crucial role in shaping the future of technology, yet accessibility and inclusion are often overlooked in curricula. This keynote will provide a practical guide to accessible computing, equipping attendees with strategies to create more inclusive learning environments. We’ll explore why accessibility matters—ethically, legally, and pedagogically—and how it benefits all students, not just those with disabilities. Key topics include the difference between teaching accessibility as a subject and teaching accessibly as an educator, the fundamentals of disability language, and the distinction between assistive and accessible technology. Attendees will also gain insight into accommodations, Universal Design for Learning (UDL), and effective ways to support neurodivergent students in CS classrooms. The session will wrap up with simple, actionable steps that educators can implement immediately, along with a curated list of resources for those who want to explore accessibility in more depth. Whether you're new to accessibility or looking to refine your approach, this talk will provide the knowledge and tools to make computing education more accessible.",,
+fri-banquet,,banquet-keynote,Plenary,"Emmons, John",Salesforce,AI Engineering: Lessons from the Frontlines,"From self-driving cars to generative AI, John Emmons (Drake Graduate, 2016) shares the career decisions that took him from the Midwest to Silicon Valley—then back again—and the lessons learned along the way. Drawing from his experience leading high-pressure AI projects at Tesla Autopilot and Salesforce AI, he provides insights into how real-world AI systems are built, the skills that matter most in the industry, and practical advice for those looking to break into the field from the perspective of an AI engineering manager.",,
+fri-1c,,partner-acm2y,Sponsor ACM2Y ,"Geissler, Markus; Preuss, Tim  ",Cosumnes River College; Minnesota State Community Technical College,Creating Effective Learning Outcomes and Competencies with Bloom’s for Computing,"<strong>CCSC Gold Level National Partner</strong> ACM Committee for Computing Education in Community Colleges (CCECC) in collaboration with ACM2Y: A hands-on workshop on best practices for creating competencies and student learning outcomes that can be easily assessed while serving as effective communication tools with students, transfer institutions, advisory boards, and industry partners.",,
+sat-1c,TRUE,poster02,Poster,"Komatireddy, Rithika reddy;
+Sargari, Nikilesh Reddy;
+Zhao, Gary Yu;
+Tu, Cindy Zhiling",Northwest Missouri State University,Semantic Analysis of AI’s Societal Impact,"This study, “Semantic Analysis of AI’s Societal Impact,” examines the discourse surrounding AI, particularly tools like ChatGPT, by analyzing keyword frequencies and thematic patterns. The research involves data extraction from various discussions, followed by a structured data-cleaning pipeline using Python, Pandas, and Regular Expressions (re) to ensure the removal of irrelevant symbols and noise while preserving textual integrity.
+
+To extract meaningful insights, we employ YAKE (Yet Another Keyword Extractor) for automatic keyword identification, highlighting the most relevant words and phrases. Additionally, word cloud visualizations are generated to offer an intuitive representation of dominant discussion topics.
+
+The top five key impact areas are extracted from the topic extraction results:
+
+1. Children and Family Impact – AI's growing influence on children's education, family interactions, and concerns regarding exposure to inappropriate content.
+
+2. Media and Entertainment Influence – AI’s role in content creation, movie narratives, and algorithm-driven engagement, reshaping the entertainment landscape.
+
+3. Corporate and Military Concerns – Ethical dilemmas in automation, AI-driven business decision-making, and the implications of AI in military applications.
+
+4. Health and Misinformation – AI’s influence on healthcare advancements, research, and its potential to spread or counteract misinformation.
+
+5. Freedom and Societal Fears – Public concerns surrounding AI's impact on privacy, democracy, and existential risks to human control.
+
+Through topic extraction and keyword analysis, this research provides valuable insights into public discourse on AI, uncovering critical themes that shape perceptions and concerns. By leveraging semantic analysis techniques, this study contributes to a deeper understanding of AI's evolving role, enabling informed decision-making, trend analysis, and responsible AI governance.",,
+sat-1c,TRUE,poster03,Poster,"Sreeyuth Chowdary Gunnam; Noshitha Reddy Gudhibandi; Zhao, Gary Yu",Northwest Missouri State University,Enhancing Adjunct Faculty Performance Prediction by Applying SMOTE Techniques,"This research focuses on predicting adjunct faculty teaching performance through a structured two-stage process. Stage 1 emphasizes data extraction, cleaning, and preliminary analysis to establish a robust foundation for predictive modeling in Stage 2. Leveraging machine learning algorithms and statistical techniques, our objective is to support university decision-makers in making informed hiring, evaluation, and intervention decisions.
+
+Data extraction was performed using a Python script on a Linux server, utilizing API methods to retrieve data from Evaluation Kit and Canvas, a Learning Management System (LMS). The data underwent rigorous preprocessing, including anonymization, outlier removal, handling missing values, data integration, and aggregation at the section level. Finally, we obtained a validated dataset of 3,581 records. In the dataset, the target variable is the faculty’s performance evaluation result. It is imbalanced, meaning that most of the performance is good, about 80% in the entire dataset.
+
+From the literature, imbalanced data can lead to low machine learning classifier performance. To address this, we applied four types of SMOTE techniques—Borderline-SMOTE, SMOTE-ENN, SMOTE-Tomek, and standard SMOTE—to various machine learning algorithms such as Logistic Regression (LR), Support Vector Machine (SVM), Decision Tree (DT), Naive Bayesian (NB), Multi-Layer Perceptron Neural Network (MLPNN), and Random Forest (RF) to predict adjunct faculty performance.
+
+Our comparative analysis showed that Random Forest algorithm combined with standard SMOTE techniques improved model accuracy to 88%, demonstrating its effectiveness in handling data imbalance. Our work enhances predictive accuracy and decision-making in educational institutions by establishing a standardized approach to faculty performance analysis. The insights from this study contribute to optimizing adjunct faculty evaluation processes, promoting academic excellence, and ensuring effective resource allocation in higher education. ",,
+sat-1c,TRUE,poster04,Poster,Nikitha Sri Garapati; Sri Sowmya Polampalli; Isam Alobaidi ,Northwest Missouri State University,"Leveraging the capabilities of MapReduce and Big Data frameworks, real-time analysis is performed on extensive datasets extracted from social media platforms, like Twitter, and news outlets","Leveraging the capabilities of MapReduce and Big Data frameworks, real-time analysis is performed on extensive datasets extracted from social media platforms, like Twitter, and news outlets. A meticulous data preprocessing phase guarantees data integrity, facilitating robust and streamlined analytical procedures. Through the implementation of sophisticated methodologies, including word frequency analysis, co-occurrence mapping, and sentiment classification, evolving trends, and latent patterns are uncovered within unstructured textual information. The resulting insights offer significant value to both commercial enterprises and academic researchers, empowering them to formulate informed, data-driven strategies grounded in contemporary trends. Furthermore, predictive models are developed based on identified trends, enabling proactive decision-making and forecasting of future shifts. The system's modular design allows for easy integration with various data sources and analytical tools, enhancing its versatility and applicability across diverse domains. This also contributes to the development of scalable and efficient algorithms for real-time data processing, addressing the growing need for rapid insights in the age of information overload.",,
+sat-1c,TRUE,poster05,Poster,"Akshitha Katyaini Reddy Akkireddy;
+Sai Swetha Bodlapati; Isam Alobaidi",Northwest Missouri State University,YouTube video trends to provide content creators with data-driven strategies for enhanced performance,"This analysis investigates YouTube video trends to provide content creators with data-driven strategies for enhanced performance. By leveraging a dataset of video details and utilizing PySpark for efficient data processing, the study identifies optimal posting times, popular content categories, and the influence of metadata like tags and titles on viewer engagement. Regional performance variations and engagement metrics, such as like-to-view and comment-to-view ratios, are also explored. The resulting insights empower creators to refine their posting schedules and content strategies for increased viewership and interaction. This study facilitates a deeper understanding of audience behavior and content effectiveness, ultimately aiming to bridge the gap between creative content and successful audience engagement on the YouTube platform.",,
+sat-1c,TRUE,poster06,Poster,"Brooklen Black;
+Julianna Marshall; 
+Isabella Mills;  Diana Linville",Northwest Missouri State University,A Comparative Analysis of AI-Driven Webpage Creation,"Due to the rise of the use of AI in everyday lives, we want to examine how chatbots can be used in the digital media space, specifically in the development of web pages. We will use content analysis to examine the structural elements of the generated web pages for similarities and differences. Based on a developed webpage, we will experiment with prompt engineering, testing different prompts and narrowing them down to one prompt, and analyzing and comparing how each chatbot generates the same webpage. We chose to use the payment-free versions of ChatGPT, Claude, DeepSeek, Google Gemini, and Meta AI. Additionally, we will evaluate accuracy, completeness, and consistency as well as analyze the code quality, checking for well-structured, valid code. We hope to find the strengths and weaknesses of these different AI chatbots when prompted to generate code as well as gauge their usability, functionality, and interpretation of the prompts. ",,
+sat-1c,TRUE,poster07,Poster,Josh Obersteadt,Graceland University,AI-Powered Pet Adoption: A .NET MAUI-Based Platform to Help Pets Find Loving Homes,"Animal shelters often struggle to match pets with loving homes, recruit volunteers, and secure critical funding. Traditional platforms rely on static pet profiles that fail to capture an animal’s personality, disengaging potential supporters. In response, this research project introduces a cross platform mobile application built with .NET MAUI that harnesses artificial intelligence to deliver personalized pet recommendations while seamlessly connecting users to donation and volunteer opportunities.
+At the core of the solution is an AI matching engine that integrates computer vision and natural language processing. The engine analyzes pet photos to assess breed traits, temperament, and health and interprets user preferences to generate highly relevant matches. Collaborative filtering refines these recommendations over time based on user feedback, ensuring an increasingly accurate and engaging experience.
+Rather than reinventing shelter management systems, this app interfaces directly with existing shelter APIs. This integration provides real time pet data alongside direct links to the donation portal and volunteer sign up. A Gemini chatbot, specifically designed to answer pet-related questions, captures user sentiment and further refines match quality, enhancing the overall user experience.
+Preliminary prototype testing reveals a greater than 30% increase in user engagement compared to traditional static listings. Additionally, shelters benefit from a lightweight analytics dashboard that offers actionable insights, empowering them to optimize outreach efforts with minimal technical overhead.
+By combining .NET MAUI’s extensive cross platform capabilities with advanced AI personalization and frictionless calls to action, this project empowers animal lovers to adopt, donate, or volunteer with ease, while enabling shelters to focus on what truly matters: providing compassionate care for pets in need.",,
+sat-1c,TRUE,poster08,Poster,"Somika Ganesh; Hsin, Wen-Jung",Park University,Network Traffic Analysis for Malicious Activity Detection,"In this research project, I explored network traffic analysis for detecting and preventing malicious activities using Snort, an open-source Intrusion Detection and Prevention System (IDS/IPS). The project was conducted in a safe and controlled environment using TryHackMe, a cybersecurity training platform that provides hands-on labs for learning network security. Through this project, I gained practical experience in monitoring, logging, analyzing, and mitigating network threats using Snort’s different operational modes.
+
+I started by using Sniffer Mode, which allowed me to capture and analyze live network traffic. This mode provided visibility into real-time packet flow, showing details such as source and destination IP addresses, protocols, and payloads. Next, I used Packet Logger Mode to store network traffic logs for offline analysis. These logs were examined using Snort and Wireshark, helping me detect suspicious patterns and anomalies in the captured data.
+
+The most critical part of the project was working with IDS/IPS Mode. In Intrusion Detection System (IDS) mode, I configured Snort to monitor network activity and generate alerts when suspicious traffic was detected. This helped me identify potential attacks such as ICMP scanning and HTTP-based threats. I then switched to Intrusion Prevention System (IPS) mode, where Snort was configured to actively block and drop malicious packets, preventing unauthorized access and mitigating security risks in real time.
+
+Finally, I performed PCAP File Analysis, where I examined previously captured traffic logs to investigate past attacks and understand network behavior. This forensic approach helped me see how different types of attacks leave traces in network logs, reinforcing the importance of continuous monitoring and incident response.
+
+By completing this project in a safe and controlled environment on TryHackMe, I successfully demonstrated how network traffic analysis plays a crucial role in cybersecurity. The ability to detect, log, and prevent cyber threats using Snort provides valuable insights into network defense strategies. This research highlights the effectiveness of IDS and IPS solutions in securing networks and emphasizes the importance of traffic analysis for identifying and mitigating cyber threats before they cause harm.",,
+sat-1c,TRUE,poster09,Poster,"Khalid Mohammed;
+Coleman Pagac;
+Rediet Ayalew;
+Braedon Stapelman;
+Eric Manley; Sean Severe",Drake University,Machine Learning for Bank Failure Prediction: Enhancing Early Warning Systems,"Accurately predicting bank failures is crucial for financial stability, risk management, and regulatory intervention. However, the imbalance in failure data and the complexity of financial indicators make traditional predictive models less effective. To improve early detection, we explore machine learning and neural network architectures, evaluating logistic regression, random forest, XGBoost, and deep learning models, including LSTMs, GRUs, CNN-LSTM hybrids, and transformer-based networks. Our approach incorporates HEALTH, a continuous score representing a bank’s overall financial health, based on key indicators such as capital adequacy, asset quality, liquidity, and profitability. We attempt to classify when banks have failed by predicting whether HEALTH has fallen below a well-established threshold. Additionally, we use regression-based approaches to directly predict the numerical value of HEALTH, allowing for a more granular assessment of financial risk. We apply feature engineering techniques such as rescaling HEALTH to emphasize lower values, allowing models to better capture early signs of distress, and adjust model weighting to account for the rarity of bank failures. Performance analysis reveals that XGBoost consistently outperforms other models in classification tasks, achieving the highest AUC scores, while deep learning architectures with attention mechanisms show promise in capturing long-term dependencies. Hyperparameter tuning, including adjustments to model weighting strategies and learning rate optimization, further improves accuracy. These findings contribute to more reliable early warning systems for banking regulators, enabling proactive intervention, reducing systemic financial risk, and improving decision-making for financial institutions by offering more accurate, data-driven risk assessments.",,posters/poster09.jpg
+sat-1c,TRUE,poster10,Poster,"Sudha Sravya Gandla; Deepika Mukku; Qin, Zhengrui",Northwest Missouri State University,Desocial: Redefining Connection with Decentralized Trust,"Traditional social media platforms are built on centralized architectures that concentrate control over user data and content moderation in the hands of a few large entities. This structure often leads to issues such as data privacy breaches, content censorship, and arbitrary governance. In these systems, decisions about what content is allowed or removed are made without community input, which can result in bias, manipulation, and lack of accountability. Additionally, centralized servers are vulnerable to failures and unauthorized control, risking both the security and integrity of user-generated content.
+
+The centralization of social media poses significant challenges in today’s digital landscape. Users increasingly demand privacy and autonomy over their personal data, as well as transparent processes for content moderation. Without decentralized control, there is a growing risk of censorship and the suppression of diverse opinions. Moreover, reliance on centralized servers not only creates single points of failure but also makes platforms susceptible to exploitation and manipulation. As digital interactions continue to grow, ensuring a secure, fair, and resilient online environment becomes crucial for protecting individual rights and promoting trust among users.
+
+In this poster, we propose DeSocial that offers a decentralized alternative by leveraging blockchain technology, smart contracts, and decentralized storage systems like IPFS. In DeSocial, users retain full ownership of their data, while a validator-based governance model ensures that content moderation is conducted transparently and impartially. Disputes such as copyright claims, content violations, or misinformation are resolved by randomly selected validators whose decisions are recorded on-chain, ensuring accountability and fairness. Token-based incentives keep validators engaged and motivated to maintain unbiased moderation. By moving away from centralized control and utilizing decentralized storage, DeSocial not only enhances security and user privacy but also minimizes single points of failure, paving the way for a more democratic, censorship-resistant digital communication landscape.",,
+sat-1c,TRUE,poster12,Poster,Akash Thanneeru; Prabhu Kumar Athukuri; Maneesha Karamsetty; Rishil Reddy Dandoori; Zhengrui Qin,Northwest Missouri State University,INADS: A Multi-Layered Machine Learning Architecture for Anomaly Detection in Critical Network Infrastructures,"The growing sophistication, scale, and diversity of modern cyberattacks—ranging from volumetric DDoS floods to stealthy, low-and-slow intrusions—pose significant challenges to traditional detection systems. These evolving threats demand adaptive, multi-perspective defense mechanisms capable of analyzing network traffic from different vantage points to ensure comprehensive and timely anomaly detection.
+
+This poster presents the Intelligent Network Anomaly Detection System (INADS), a novel multi-layered framework that integrates machine learning models across the Global, Edge, and Device layers of the TCP/IP stack.
+
+At the Global Layer, XGBoost identifies high-volume attacks (e.g., DDoS, DoS, brute force) with high accuracy across large-scale traffic. The Edge Layer employs LSTM networks to detect behavioral and temporal anomalies, effectively capturing patterns in flow sequences. The Device Layer combines Isolation Forest with a Multi-Layer Perceptron (MLP) to address endpoint-level threats, such as stealthy infiltrations and potential zero-day attacks. A Core Fusion Layer consolidates decisions from all layers using a weighted averaging scheme to generate a final anomaly confidence score.
+
+INADS was evaluated on the CSE-CIC-IDS-2018 dataset following extensive preprocessing, feature engineering, and correlation analysis. Results show detection accuracies exceeding 96% at the Global and Edge layers, with the Device Layer demonstrating strong precision for known attacks and ongoing improvements for detecting infiltration.
+
+INADS lays the groundwork for future enhancements, including blockchain-based logging for tamper-proof forensics, federated learning for decentralized updates, reinforcement learning for adaptive thresholds, and multi-layer encryption for enhanced data privacy.
+
+Together, these innovations position INADS as a scalable, adaptive, and real-time solution for next-generation network intrusion detection.",,
+sat-1c,TRUE,poster13,Poster,"Mehakdeep Kaur; Hsin, Wen-Jung",Park University,The Future of AI: A Double-Edged Sword,"Artificial Intelligence (AI) is no longer a futuristic concept it’s already a part of our daily lives. From using facial recognition to unlock our phones to getting recommendations on what to watch or buy, AI is quietly working behind the scenes, making everything faster, easier, and more personalized. It’s also helping in big ways like improving healthcare through faster diagnoses, boosting productivity in businesses, and even helping solve global challenges like climate change. The future of AI seems full of exciting possibilities.
+
+But alongside all this innovation, there’s a growing concern about the dark side of AI. As much as it helps us, AI also raises serious questions. Are we losing jobs to machines? Is our privacy being invaded without us realizing? Can we trust algorithms to make fair decisions? Technologies like deepfakes, surveillance systems, and biased AI models are just a few examples that show how AI, if misused, can lead to problems that affect individuals and society as a whole.
+
+This poster, “The Future of AI: A Double-Edged Sword,” explores both the benefits and the risks that come with this powerful technology. It uses a balanced approach, showing the positive impact of AI on education, medicine, environment, and everyday life, while also addressing important issues like data privacy, misinformation, and lack of regulation. The design is meant to visually reflect this contrast presenting AI as both a helpful tool and a potential threat, depending on how it’s used.
+
+Through this poster, the goal is to encourage people to think critically about the role AI plays in their lives. Instead of fearing it or blindly trusting it, we need to understand it better and ask the right questions: Who is responsible for AI decisions? How can we protect ourselves while using AI-based tools? And most importantly, how do we make sure AI stays under human control, serving us not replacing or harming us?
+
+By sparking conversations and raising awareness, this poster aims to remind us that the future of AI is not just about technology it’s also about humanity. Whether it becomes a tool for progress or a source of problems depends entirely on the choices we make today.",,
+sat-1c,TRUE,poster14,Poster,Anushka Uppula;  Roshini Naguru;  Ratan Lal,Northwest Missouri State University,Fresh Track App: Food Expiration Monitoring and Management ,"Abstract: Food waste in households remains a pressing global challenge, contributing to significant financial losses and environmental harm. A primary cause is the mismanagement of perishable and packaged goods, often forgotten in refrigerators or pantries past their expiration dates. To address this, we present Fresh Track, an innovative mobile application that leverages advanced machine learning to optimize food inventory management and reduce waste through intelligent expiration tracking. 
+
+Fresh Track empowers users to seamlessly monitor their groceries via three intuitive input methods: manual entry, barcode scanning, and a custom-built machine learning model designed to detect and classify fruits, vegetables, and fresh produce through real-time camera analysis. Unlike generic image recognition tools, this proprietary computer vision model is specifically trained on diverse datasets of fresh and aging produce, enabling precise identification of items and estimation of their shelf life by analyzing visual freshness indicators (e.g., color, texture, bruising). The app’s home screen dynamically categorizes items into Expiring Soon, Expired, and Fresh, while push notifications alert users to prioritize consumption of soon-to-expire goods. 
+
+For packaged items, barcode scanning auto-populates product details using a cloud database. The app’s machine learning framework further enhances usability: the custom produce detection model adapts to regional variations in food types and storage conditions, improving accuracy over time. By combining these features, Fresh Track not only reduces waste but also promotes sustainable consumption habits through data-driven insights, such as personalized usage trends and waste analytics. 
+
+By combining machine learning, automation, and intuitive inventory management, Fresh Track provides a feature-rich solution to reduce food waste, optimize grocery consumption, and promote sustainable habits. This app not only helps users save money but also contributes to a broader environmental impact by minimizing food waste at the household level. ",,
+sat-1c,TRUE,poster15,Poster,Sean Chen; Khalid Mohammed; Nicholas Haisler; Haris Mehuljic; Nico Gonnella; Md Reza; Eric Manley,Drake University,Domain Randomization using Synthetic Data for Grease Bin Semantic Segmentation,"Training robust visual models often requires large, diverse datasets, but collecting real-world data can be costly and time-consuming. To address this challenge, we explore the use of synthetic data for training segmentation models, focusing on container and liquid volume estimation as a downstream application. We generated a synthetic dataset in Blender with varied textures, lighting, viewpoints, and environments to improve segmentation performance. Using HRNetV2, we fine-tuned a model for synthetic-to-real domain adaptation, demonstrating the potential of synthetic data to supplement limited real-world datasets. While this work focuses on segmentation as a precursor to volume estimation, our approach generalizes to other computer vision tasks requiring synthetic data augmentation. The findings contribute to cost-effective model training, reducing the need for extensive real-world data collection.",,posters/poster15.jpg
+sat-1c,TRUE,poster16,Poster,"Ryan Schuenke; 
+Meredith Moore",Drake University,Evaluating the Efficacy of Body Doubling for ADHD Using a Brain-Computer Interface,"Individuals with attention deficit hyperactivity disorder (ADHD) can often have difficulties initiating, focusing on, and completing tasks. One of the methods used to address these challenges is body doubling, working in the presence of another person. Body doubling is widely believed to be beneficial within the ADHD community and aligns with the psychology theory of social facilitation, which suggests that people perform tasks better when others are present. However, despite anecdotal support, there is little empirical research on the mechanism or efficacy of body doubling. This study aims to empirically assess whether body doubling affects task performance, focus, and calm in individuals with and without ADHD.
+
+This study employs a brain-computer interface (BCI), the Neurosity Crown, to measure the effectiveness of body doubling for individuals with ADHD. Participants from three groups—unmedicated ADHD, medicated ADHD, and neurotypical—completed an ACT Reading Comprehension exam both alone and with a body double present while wearing the BCI. The BCI recorded focus and calm levels, which were supplemented by participants' self-reported assessments of focus and calm, time to complete the test, and test performance.
+
+Our results indicate that body doubling does not have a significant effect on performance, focus, or calm. However, our study design may not fully capture the real-world ways body doubling is used, particularly for initiating and completing tasks. We propose considerations for future studies to better reflect how body doubling is used, particularly by incorporating tasks that vary in personal interest and competency. By refining the study designs, future research can clarify when and how body doubling may be beneficial. ",,posters/poster16.jpg
+sat-1c,TRUE,poster17,Poster,"Kai Crabb; Mason Sipe;
+Umair Mughal",Northwest Missouri State University,Comparison of Classification between Artificial Intelligence and Machine Learning,"Artificial intelligence and machine learning algorithms are often grouped into the same classification, and both models analyze data to make decisions. However, machine learning is just a branch of artificial intelligence that uses past information to make informed decisions. By comparing these topics, we can better understand the main goals and the similarities and differences between the two. Regarding accuracy, your model is only as effective as your feed data. The main goal of machine learning is to be as accurate as possible from our data. At the same time, artificial intelligence focuses on artificially creating intelligence to be able to think logically like a human, simulating the human mind in an attempt to solve complex problems. Humans, as does artificial intelligence, use all kinds of data (structured, semi-structured, unstructured) in their day-to-day lives. In contrast, machine learning only takes in structured and semi-structured data. As for timing and resources required, artificial intelligence may take longer depending on the complexity of the task at hand. It may be out of reach for a typical individual to develop their artificial intelligence model as these require lots of energy-intensive resources and may require large data centers to run, but training your machine learning model may be more manageable in terms of the resources it needs and what’s available to the average person.",,
+sat-1c,TRUE,poster18,Poster,Sean Chen; Nicholas Haisler; Marshall Tentis; Md Reza,Drake University,Analyzing Emotional Expression in TikTok Videos Through Semantic Segmentation,"In this work, we explore how objects and environments in TikTok videos correlate with perceived emotions. We constructed a dataset of approximately 100 videos (50 labeled as happy, 50 as sad) based on human annotation. To analyze these videos, we extracted frames and applied Mask2Former, a high-resolution deep learning model for semantic segmentation, to identify and categorize objects within each frame. By examining the presence and distribution of objects and environmental features, we aim to uncover patterns that differentiate happy and sad videos. This study provides insight into the types of content TikTok users share when experiencing certain emotions, offering a deeper understanding of how social media serves as a platform for emotional expression.",,
+sat-1c,TRUE,poster19,Poster,Andrei Migunov; Khalid Mohammed; Garrett Provence; Nicholas Haisler,Drake University,Optimizing Analog Computation: A Smart Dual-Railing Approach for Efficient Compilation,"Analog computation models such as General Purpose Analog
+Computers (GPACs) and Chemical Reaction Networks (CRNs) enable
+continuous and molecular-scale computation. We build on our prior
+work presented at CCSC 2024, where we are developing a Python-based
+compiler, inspired by the work of Huang and Huls (2022), that converts
+GPACs into Population Protocols (PPs). In this work, we focus on a
+key early stage transformation known as Dual-Railing, which ensures
+that a given GPAC system is CRN implementable. We further optimize
+the current method, by applying Tarjan’s algorithm to analyze variable
+dependencies. This allows for a reduction in the size of the output system,
+thus improving efficiency throughout the compiler’s pipeline.
+
+ This research was supported in part by Department of Energy Office of Science
+Award DE-SC0024278.",,
+sat-1c,TRUE,poster20,Poster,Anil Panday; Ashish KC; Rojina Raut; Mark Chai ,Northwest Missouri State University,MedBot for Conversational Interaction with Audio Email Attachments,"In modern healthcare, doctors often face difficulties accessing and organizing patient records, which are scattered across various unstructured audio notes. Many of these records are shared via Gmail, making it a crucial source of patient data. These audio recordings can contain valuable information and actionable insights. Current solutions primarily focus on leveraging AI for voice recognition, summarization, and interaction within a healthcare setting (Byju, 2024). However, the challenge of retrieving files from the emails remains unaddressed. To solve this problem, our research proposed an AI-powered chatbot - MedBot, integrated with Gmail which allows doctors to interact with audio medical records. Instead of manually searching through audio transcriptions, physicians can ask questions, and the system will quickly extract relevant details from past doctor-patient interactions/telephone calls. MedBot uses Vosk for accurate speech-to-text conversion and GoogleGenerativeAIEmbeddings to create searchable vector representations, and Gemini to process natural language queries, and provide context-aware responses. The experiment indicate MedBot can extract correct information from audio attachments sent through Gmail and generate accurate answers. This not only saves time but also ensures more accurate and efficient patient care.
+  
+
+References : 
+S. Byju, ""Voice-to-Text Summarization and Patient Interaction Systems,"" 2024 5th International Conference on Data Intelligence and Cognitive Informatics (ICDICI), Tirunelveli, India, 2024, pp. 489-493, doi: 10.1109/ICDICI62993.2024.10810979.",,
+sat-2c,,student-paper01,Student Paper,Ob Archibong,Lincoln University,EVA: An Experiment in Introducing AI Assistants in Linux Operating Systems,"Generative technologies are becoming more commonplace in society, and as a result, the bar of entry for interfacing with such has fallen drastically. Software applications have become more generalized and accessible, with the latest features being the implementation of artificial intelligence (AI). However, desktop digital assistants in mainstream operating systems today are predominately neglected, even by their targeted audience of in-experienced users who often overlook such assistive technologies. 
+
+This project serves as an experiment in implementing a desktop digital assistive tool for Linux, which in application highlights AI's strengths in supporting, rather than interjecting the user experience. In developing the system multiple dependent packages will be used to grant the system the desired functionality. In recent years software suites like Windows have notoriously been criticized for including assistants due to the operating systems' already simplified interfaces. In contrast, Linux, a popular open-source operating system, is often overlooked due to being less user-friendly. Implementing assistive features for command-line interfaces could serve to bridge the gap in terms of user interpretation of the Linux platform. ",Paper-ObanadabArchibong.pdf,
+sat-2c,,lightning03,Lightning Talk,Joan Gladbach; Brian Hare,University of Missouri – Kansas City ,Building AI-Powered Responsible Workforce by Integrating LLMs into CS Curriculum,"The Computer Science department at the University of Missouri – Kansas City has embarked on major changes in six core CS courses to integrate large learning models (LLMs) in the classroom as a part of a grant awarded by NSF. The UMKC CS department is analyzing how to better utilize LLMs as learning tools to enhance problem-solving and programming skills while ensuring these tools are used responsibly. Professors Hare and Gladbach will discuss the modifications being implemented within their department, highlighting the specific changes they have made in their own classes to adapt to the evolving educational landscape shaped by the accessibility and impact of AI models in the classroom. (Note: this presentation will take two lightning talk slots for a total of 15 minutes)",,
+sat-1c,TRUE,poster21,Poster,"Chiranjeevi Ankaiah; Aziz Fellah
+",Northwest Missouri State University,Precipitation Quest - Game,"""Precipitation Quest"" is an interactive educational game designed to enhance students' understanding of fundamental chemistry concepts, including chemical reactions, solubility, and compound formation, in both Chemistry I and Chemistry II. Developed using the Godot Engine, the game transforms complex scientific principles into an engaging and immersive learning experience. Players experiment with various chemical reactions to observe the formation of precipitates, reinforcing their understanding of solubility rules, reaction mechanisms, and the factors influencing precipitation.  
+A key focus of the game is the environmental issue of lead contamination in water, providing a real-world application that promotes critical thinking and problem-solving. Through interactive simulations, students explore the chemistry behind water contamination, the formation of insoluble compounds, and potential solutions for remediation. The game’s design encourages inquiry-based learning, allowing players to test hypotheses, analyze outcomes, and develop a deeper appreciation for the practical implications of chemistry in environmental and industrial contexts.  
+By integrating gamification into chemistry education, *Precipitation Quest* aims to bridge the gap between theoretical knowledge and real-world application. The game fosters engagement, enhances conceptual retention, and provides an innovative approach to learning chemistry in an interactive and meaningful way.",,
+sat-1c,TRUE,poster22,Poster,Ravipati Venkatalahari; Aziz Fellah,Northwest Missouri State University,Redox : Protect the World,"""Redox: Protect the World"" is an innovative educational game designed to transform the teaching and learning of redox chemistry through interactive and immersive gameplay. By integrating gamification into the educational experience, the project bridges the gap between traditional classroom instruction and modern digital learning methods. The game provides students with a dynamic platform to explore the fundamental principles of redox reactions in an engaging and intuitive manner.
+Through structured gameplay, players encounter progressively challenging scenarios that require them to apply their knowledge of oxidation-reduction processes. This interactive approach not only reinforces theoretical concepts but also enhances critical thinking skills and scientific reasoning. By fostering curiosity and active participation, Redox: Protect the World encourages a deeper understanding and appreciation of chemistry, making learning more accessible and enjoyable.
+Designed to support both self-directed learning and classroom integration, the game serves as a versatile educational tool. Educators can utilize it to introduce, reinforce, or assess students’ comprehension of redox reactions, while its flexible structure allows learners to progress at their own pace. This project seeks to revolutionize chemistry education by merging entertainment with academic enrichment, inspiring a new generation of students to engage with science in an interactive and meaningful way.",,

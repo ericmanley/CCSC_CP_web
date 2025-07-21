@@ -1,0 +1,3 @@
+---
+name: 'Pre-Conference Workshop'
+---

@@ -1,0 +1,12 @@
+---
+name: 'Fresh Track App: Food Expiration Monitoring and Management '
+speakers:
+  - Anushka Uppula
+  - Roshini Naguru
+  - Ratan Lal
+categories:
+  - Poster
+program_hide: true
+---
+
+: Food waste in households remains a pressing global challenge, contributing to significant financial losses and environmental harm. A primary cause is the mismanagement of perishable and packaged goods, often forgotten in refrigerators or pantries past their expiration dates. To address this, we present Fresh Track, an innovative mobile application that leverages advanced machine learning to optimize food inventory management and reduce waste through intelligent expiration tracking.   Fresh Track empowers users to seamlessly monitor their groceries via three intuitive input methods: manual entry, barcode scanning, and a custom-built machine learning model designed to detect and classify fruits, vegetables, and fresh produce through real-time camera analysis. Unlike generic image recognition tools, this proprietary computer vision model is specifically trained on diverse datasets of fresh and aging produce, enabling precise identification of items and estimation of their shelf life by analyzing visual freshness indicators (e.g., color, texture, bruising). The app’s home screen dynamically categorizes items into Expiring Soon, Expired, and Fresh, while push notifications alert users to prioritize consumption of soon-to-expire goods.   For packaged items, barcode scanning auto-populates product details using a cloud database. The app’s machine learning framework further enhances usability: the custom produce detection model adapts to regional variations in food types and storage conditions, improving accuracy over time. By combining these features, Fresh Track not only reduces waste but also promotes sustainable consumption habits through data-driven insights, such as personalized usage trends and waste analytics.   By combining machine learning, automation, and intuitive inventory management, Fresh Track provides a feature-rich solution to reduce food waste, optimize grocery consumption, and promote sustainable habits. This app not only helps users save money but also contributes to a broader environmental impact by minimizing food waste at the household level. 

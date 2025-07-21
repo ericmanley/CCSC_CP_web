@@ -1,0 +1,3 @@
+---
+name: 'Student Programming Contest'
+---

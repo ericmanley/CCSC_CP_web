@@ -1,0 +1,12 @@
+---
+name: 'Enhancing Adjunct Faculty Performance Prediction by Applying SMOTE Techniques'
+speakers:
+  - Sreeyuth Chowdary Gunnam
+  - Noshitha Reddy Gudhibandi
+  - Gary Yu Zhao
+categories:
+  - Poster
+program_hide: true
+---
+
+This research focuses on predicting adjunct faculty teaching performance through a structured two-stage process. Stage 1 emphasizes data extraction, cleaning, and preliminary analysis to establish a robust foundation for predictive modeling in Stage 2. Leveraging machine learning algorithms and statistical techniques, our objective is to support university decision-makers in making informed hiring, evaluation, and intervention decisions.  Data extraction was performed using a Python script on a Linux server, utilizing API methods to retrieve data from Evaluation Kit and Canvas, a Learning Management System (LMS). The data underwent rigorous preprocessing, including anonymization, outlier removal, handling missing values, data integration, and aggregation at the section level. Finally, we obtained a validated dataset of 3,581 records. In the dataset, the target variable is the faculty’s performance evaluation result. It is imbalanced, meaning that most of the performance is good, about 80% in the entire dataset.  From the literature, imbalanced data can lead to low machine learning classifier performance. To address this, we applied four types of SMOTE techniques—Borderline-SMOTE, SMOTE-ENN, SMOTE-Tomek, and standard SMOTE—to various machine learning algorithms such as Logistic Regression (LR), Support Vector Machine (SVM), Decision Tree (DT), Naive Bayesian (NB), Multi-Layer Perceptron Neural Network (MLPNN), and Random Forest (RF) to predict adjunct faculty performance.  Our comparative analysis showed that Random Forest algorithm combined with standard SMOTE techniques improved model accuracy to 88%, demonstrating its effectiveness in handling data imbalance. Our work enhances predictive accuracy and decision-making in educational institutions by establishing a standardized approach to faculty performance analysis. The insights from this study contribute to optimizing adjunct faculty evaluation processes, promoting academic excellence, and ensuring effective resource allocation in higher education. 

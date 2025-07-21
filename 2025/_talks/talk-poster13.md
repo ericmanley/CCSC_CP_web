@@ -1,0 +1,11 @@
+---
+name: 'The Future of AI: A Double-Edged Sword'
+speakers:
+  - Mehakdeep Kaur
+  - Wen-Jung Hsin
+categories:
+  - Poster
+program_hide: true
+---
+
+Artificial Intelligence (AI) is no longer a futuristic concept it’s already a part of our daily lives. From using facial recognition to unlock our phones to getting recommendations on what to watch or buy, AI is quietly working behind the scenes, making everything faster, easier, and more personalized. It’s also helping in big ways like improving healthcare through faster diagnoses, boosting productivity in businesses, and even helping solve global challenges like climate change. The future of AI seems full of exciting possibilities.  But alongside all this innovation, there’s a growing concern about the dark side of AI. As much as it helps us, AI also raises serious questions. Are we losing jobs to machines? Is our privacy being invaded without us realizing? Can we trust algorithms to make fair decisions? Technologies like deepfakes, surveillance systems, and biased AI models are just a few examples that show how AI, if misused, can lead to problems that affect individuals and society as a whole.  This poster, “The Future of AI: A Double-Edged Sword,” explores both the benefits and the risks that come with this powerful technology. It uses a balanced approach, showing the positive impact of AI on education, medicine, environment, and everyday life, while also addressing important issues like data privacy, misinformation, and lack of regulation. The design is meant to visually reflect this contrast presenting AI as both a helpful tool and a potential threat, depending on how it’s used.  Through this poster, the goal is to encourage people to think critically about the role AI plays in their lives. Instead of fearing it or blindly trusting it, we need to understand it better and ask the right questions: Who is responsible for AI decisions? How can we protect ourselves while using AI-based tools? And most importantly, how do we make sure AI stays under human control, serving us not replacing or harming us?  By sparking conversations and raising awareness, this poster aims to remind us that the future of AI is not just about technology it’s also about humanity. Whether it becomes a tool for progress or a source of problems depends entirely on the choices we make today.

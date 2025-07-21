@@ -1,0 +1,10 @@
+---
+name: 'AI-Powered Pet Adoption: A .NET MAUI-Based Platform to Help Pets Find Loving Homes'
+speakers:
+  - Josh Obersteadt
+categories:
+  - Poster
+program_hide: true
+---
+
+Animal shelters often struggle to match pets with loving homes, recruit volunteers, and secure critical funding. Traditional platforms rely on static pet profiles that fail to capture an animal’s personality, disengaging potential supporters. In response, this research project introduces a cross platform mobile application built with .NET MAUI that harnesses artificial intelligence to deliver personalized pet recommendations while seamlessly connecting users to donation and volunteer opportunities. At the core of the solution is an AI matching engine that integrates computer vision and natural language processing. The engine analyzes pet photos to assess breed traits, temperament, and health and interprets user preferences to generate highly relevant matches. Collaborative filtering refines these recommendations over time based on user feedback, ensuring an increasingly accurate and engaging experience. Rather than reinventing shelter management systems, this app interfaces directly with existing shelter APIs. This integration provides real time pet data alongside direct links to the donation portal and volunteer sign up. A Gemini chatbot, specifically designed to answer pet-related questions, captures user sentiment and further refines match quality, enhancing the overall user experience. Preliminary prototype testing reveals a greater than 30% increase in user engagement compared to traditional static listings. Additionally, shelters benefit from a lightweight analytics dashboard that offers actionable insights, empowering them to optimize outreach efforts with minimal technical overhead. By combining .NET MAUI’s extensive cross platform capabilities with advanced AI personalization and frictionless calls to action, this project empowers animal lovers to adopt, donate, or volunteer with ease, while enabling shelters to focus on what truly matters: providing compassionate care for pets in need.

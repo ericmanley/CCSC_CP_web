@@ -1,0 +1,3 @@
+---
+name: 'Poster Contest Setup'
+---
