@@ -1,0 +1,50 @@
+---
+layout: page         
+title: Conference Archives
+permalink: /archives/
+---
+
+<div class="container my-5">
+  
+    {%- assign conf_sorted = site.data.archives | sort: "year" | reverse -%}
+  
+    <div class="row">
+      {%- for conf in conf_sorted -%}
+        <div class="col-12 col-md-6 col-lg-4 d-flex mb-4">
+          <div class="card flex-fill shadow-sm">
+  
+            <!-- Year banner -->
+            <div class="card-header text-center font-weight-bold">
+              {{ conf.year }}
+            </div>
+  
+            <div class="card-body d-flex flex-column">
+  
+              <!-- Location -->
+              <p class="mb-2">
+                <i class="fa fa-map-marker mr-1"></i>
+                {{ conf.location }}
+              </p>
+  
+              <!-- Optional archive + program links -->
+              <div class="mt-auto">
+                {%- if conf.page -%}
+                  <a class="btn btn-sm btn-outline-primary mr-1"
+                     href="{{ conf.page | relative_url }}" target="_blank" rel="noopener">
+                    Archive
+                  </a>
+                {%- endif -%}
+  
+                {%- if conf.program -%}
+                  <a class="btn btn-sm btn-outline-primary"
+                     href="{{ conf.program | relative_url }}" target="_blank" rel="noopener">
+                    <i class="fa fa-file-pdf-o"></i> Program
+                  </a>
+                {%- endif -%}
+              </div>
+            </div><!-- /.card-body -->
+          </div><!-- /.card -->
+        </div><!-- /.col -->
+      {%- endfor -%}
+    </div><!-- /.row -->
+  </div><!-- /.container -->

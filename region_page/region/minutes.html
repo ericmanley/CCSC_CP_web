@@ -1,0 +1,45 @@
+---
+layout: page
+title: Meeting Minutes
+permalink: /region/minutes.html
+---
+
+<div class="container my-5">
+
+  {%- comment -%}
+    `sort` turns the hash into an array of pairs:  [ ["2024", …], ["2025", …] ]
+    We then loop over that array *reversed* so the newest year prints first.
+  {%- endcomment -%}
+  {%- assign year_pairs = site.data.minutes | sort -%}
+
+  {%- for pair in year_pairs reversed -%}
+    {%- assign yr       = pair[0] -%}
+    {%- assign meetings = pair[1] -%}
+
+    <h2 class="mt-5">{{ yr }}</h2>
+
+    <div class="table-responsive">
+      <table class="table table-striped table-sm mb-4">
+        <thead class="thead-light">
+          <tr>
+            <th scope="col" style="width: 8rem;">Date</th>
+            <th scope="col">Meeting</th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for mtg in meetings -%}
+            <tr>
+              <td>{{ mtg.date }}</td>
+              <td><a href="{{ mtg.minutes | relative_url }}"
+                target="_blank" rel="noopener">
+               <i class="fa fa-file-word-o"></i>{{ mtg.title }}</a></td>
+            </tr>
+          {%- endfor -%}
+        </tbody>
+      </table>
+    </div>
+  {%- endfor -%}
+  <h2 class="mt-5">2008-2023</h2>
+<a href="{{ 'assets/files/minutes/CCSC_CP_minutes_2008-2023.zip' | relative_url }}">Archive of Conference Minutes</a>
+</div>
+

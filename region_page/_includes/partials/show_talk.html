@@ -1,0 +1,9 @@
+{%- if talk.hide -%}
+  {{ talk.name }}
+{%- else -%}
+  <hr />
+  <p>
+    <a class="text-reset" href="{{ talk.url | prepend: site.baseurl }}"><em>{{ talk.name }}</em></a>
+  </p>
+
+{%- endif -%}

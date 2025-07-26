@@ -1,0 +1,73 @@
+{%- assign session_name = page.name -%}
+
+{% include partials/header.html %}
+
+
+  <h1 class="display-5 mb-4 text-break">
+    Session:&nbsp;{{- page.name -}}
+  </h1>
+
+
+  {{ content }}
+
+
+
+
+<ul class="list-unstyled">
+{%- for d in site.data.program.days -%}
+    {%- for r in d.rooms -%}
+    {%- for s in r.sessions -%}
+
+        {%- if session_name == s.name -%}
+
+            {%- if site.conference.live -%}
+                {%- include partials/get_talk_timestamp.html -%}
+                <span class="live-hide" data-start="{{ timestamp_start }}" data-end="{{ timestamp_end }}">
+            {%- endif -%}
+            
+            {%- include partials/get_time_pronoun.html -%}
+            {%- include partials/get_session_time.html -%}
+            {%- if s.moderator -%}
+                Moderator: {{ s.moderator }}
+            {%- endif %}
+            <p class="mb-2">
+                {%- if s.description -%}
+                  {{ s.description }}
+                {%- endif %}
+            </p>
+            <span class="d-none d-sm-inline">
+                {{- time_pronoun -}}
+            </span> {% include partials/show_session_time.html -%}
+            
+            {%- if site.conference.live -%}
+                </span>
+                {%- include partials/show_live_button.html -%}
+            {%- endif -%}
+            
+            {%- assign room = site.rooms | where: 'name', r.name | first -%}
+            <span class="d-none d-sm-inline ml-1">
+                {{- site.data.lang[site.conference.lang].pronoun.in | default: "in" -}}
+            </span> {% include partials/show_room.html -%}
+        
+            {%- for t in s.talks -%}
+                {%- assign talk = site.talks | where: 'name', t.name | first -%}
+                
+                {%- include partials/get_main_category.html -%}
+                <li class="pl-2 mb-2 border-soft-{{ main_cat_color }}">
+                <p class="mb-0">
+                    {% include partials/show_talk.html %}
+                </p>
+                <p class="font-weight-light mb-0">
+                    {% include partials/list_speakers.html %}
+                </p>
+
+                </li>
+            {%- endfor %}
+        {%- endif -%}
+    {%- endfor -%}
+    {%- endfor -%}
+{%- endfor -%}
+</ul>
+
+
+{% include partials/footer.html %}

@@ -1,0 +1,8 @@
+{%- assign session = site.sessions | where: 'name', s.name | first -%}
+{%- if s.hide -%}
+  {{ s.name }}
+{%- elsif session -%}
+  <a class="text-reset" href="{{ session.url | prepend: site.baseurl }}"><strong>{{ s.name }} </strong></a>
+{%- else -%}
+  <strong>{{ s.name }} </strong>  
+{%- endif -%}

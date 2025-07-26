@@ -1,0 +1,15 @@
+{%- assign session_start = s.time_start | default: "00:00" -%}
+{%- assign session_end = s.time_end | default: "00:00" -%}
+
+{%- assign session_start_day = d.date | default: "0" -%}
+{%- assign session_end_day = d.date | default: "0" -%}
+
+{%- assign session_start_hour = session_start | split: ':' | first | plus: 0 -%}
+{%- assign session_start_min = session_start | split: ':' | last | divided_by: site.conference.program.time_steps | floor | times: site.conference.program.time_steps -%}
+{%- assign session_end_hour = session_end | split: ':' | first | plus: 0 -%}
+{%- assign session_end_min = session_end | split: ':' | last | divided_by: site.conference.program.time_steps | ceil | times: site.conference.program.time_steps -%}
+
+
+{%- assign session_start_hour_24h = session_start_day | times: 24 | plus: session_start_hour -%}
+{%- assign session_end_hour_24h = session_end_day | times: 24 | plus: session_end_hour -%}
+{%- assign session_duration_min = session_end_hour_24h | minus: session_start_hour_24h | times: 60 | minus: session_start_min | plus: session_end_min -%}

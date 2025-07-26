@@ -1,0 +1,48 @@
+- name: Judy Mullins
+  photo: assets/images/headshots/judy_mullins.jpg
+  position: Regional Representative, Board Chair
+  affiliation: Retired
+  expires: 2026
+  email: MullinsJ@umkc.edu
+  linkedin: https://www.linkedin.com/in/judy-mullins-86a5503/
+
+- name: Ron McCleary
+  photo: assets/images/headshots/placeholder.png
+  position: Registrar, Membership Chair
+  affiliation: Retired
+  expires: 2026
+  email: ron.mccleary@yahoo.com
+  linkedin: https://www.linkedin.com/in/ron-mccleary/
+
+- name: Diana Linville
+  photo: assets/images/headshots/diana_linville.jpg
+  position: Secretary, Next Conference Chair
+  affiliation: Northwest Missouri State University
+  expires: 2025
+  email: DIANAR@nwmissouri.edu
+  linkedin: https://www.linkedin.com/in/diana-linville/
+
+- name: Joan Gladbach
+  photo: assets/images/headshots/placeholder.png
+  position: Regional Editor
+  affiliation: University of Missouri-Kansas City
+  expires: 2027
+  email: gladbachj@umkc.edu
+
+- name: Ajay Bandi
+  photo: assets/images/headshots/ajay_bandi.jpg
+  position: Regional Treasurer
+  affiliation: Northwest Missouri State University
+  expires: 2027
+  email: ajay@nwmissouri.edu
+  linkedin: https://www.linkedin.com/in/ajay-bandi-6ab7b162/
+  
+- name: Eric Manley
+  photo: assets/images/headshots/eric_manley.jpg
+  position: Webmaster, Past Conference Chair
+  affiliation: Drake University
+  expires: 2028
+  email: eric.manley@drake.edu
+  linkedin: https://www.linkedin.com/in/ericmanleycomputerscience/
+  web: https://ericmanley.github.io/
+
