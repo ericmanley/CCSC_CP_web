@@ -1,0 +1,31 @@
+{%- assign day_start_day = 99999 -%}  
+{%- assign day_start_hour = 23 -%}  
+{%- assign day_start_min = 59 -%}  
+{%- assign day_end_day = -1 -%}  
+{%- assign day_end_hour = 0 -%}
+{%- assign day_end_min = 0 -%}
+
+{%- for r in d.rooms -%}
+  {%- assign s = r.sessions | first -%}
+  {%- include partials/get_session_time.html -%}
+
+  {% if s.name -%}
+    {%- if forloop.first or session_start_day < day_start_day or session_start_day == day_start_day and session_start_hour < day_start_hour or session_start_hour == day_start_hour and session_start_min < day_start_min) -%}
+      {%- assign day_start_session = s -%}
+      {%- assign day_start_day = session_start_day -%}
+      {%- assign day_start_hour = session_start_hour -%}
+      {%- assign day_start_min = 0 -%} 
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- assign s = r.sessions | last -%}
+  {%- include partials/get_session_time.html -%}
+
+
+  {%- if forloop.first or session_end_day > day_end_day or session_end_day == day_end_day and session_end_hour > day_end_hour or session_end_hour == day_end_hour and session_end_min > day_end_min-%}
+    {%- assign day_end_session = s -%}
+    {%- assign day_end_day = session_end_day -%}
+    {%- assign day_end_hour = session_end_hour -%}
+    {%- assign day_end_min = session_end_min -%}
+  {%- endif -%}
+{%- endfor -%}

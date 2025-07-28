@@ -1,0 +1,38 @@
+{
+    "map": {
+        "map_provider": "OpenStreetMap.Mapnik",
+        "home_coord": [37.216406551827674, -93.2797555159824],
+        "default_zoom": 17,
+        "pins": [{
+                "coord": [37.216406551827674, -93.2797555159824],
+                "label": "Ozarks Technical Community College"
+            }] 
+    },
+
+    "live": {
+        "time": {
+            "start": 1753725600,
+            "end": 1753725600
+        },
+
+        "streaming": {
+            "enable": false,
+            "pause": 60,
+            "prepend": 5,
+            "extend": 5
+        },
+
+        "demo": {
+            "enable": false,
+            "duration": 300,
+            "pause": 10
+        }
+    },
+
+    "lang": {
+        "map": {
+            "focus_conf": "Center map on conference location",
+            "focus_me": "Show my current location"
+        }
+    }
+}

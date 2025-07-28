@@ -1,0 +1,17 @@
+{% include partials/header.html %}
+
+{% if page.title -%}
+  <h1 class="display-5 mb-3 text-break">{{ page.title }}</h1>
+{%- endif %}
+
+
+<article class="md-content">
+  {{ content }}
+</article>
+
+
+{% if page.map %}
+  <div id="map" class="mt-4 mb-3"></div>
+{% endif %}
+
+{% include partials/footer.html %}

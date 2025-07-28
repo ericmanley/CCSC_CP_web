@@ -1,0 +1,23 @@
+---
+---
+
+$fa-font-path: '{{ site.baseurl }}/assets/webfonts';
+
+@import 'conference';
+
+.partner-logos {
+    display: flex;
+    justify-content: center; /* Centers logos horizontally */
+    gap: 20px; /* Adds space between logos */
+    flex-wrap: wrap; /* Wraps to next line on smaller screens */
+}
+
+.partner-logos img {
+    max-height: 40px;
+    width: auto;
+    
+}
+
+
+.md-content h2 { @extend .mb-3; @extend .text-break; }
+.md-content h3 { @extend .mt-4; @extend .mb-2; }
