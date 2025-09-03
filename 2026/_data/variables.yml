@@ -1,56 +1,56 @@
-conference_location: TBA (conference location)
-conference_start_date: TBA (conference start date)
-conference_end_date: TBA (conference end date)
+conference_location: Ozarks Technical Community College
+conference_start_date: April 10, 2026
+conference_end_date: April 11, 2026
 
-main_deadline: TBA (main deadline)
-main_notification: TBA (notification date)
-main_final_submission: TBA (final submission date)
-secondary_deadline: TBA (secondary deadline)
-student_activity_registration_deadline: TBA (student activity registration deadline)
+main_deadline: November 30, 2025
+main_notification: January 7, 2026
+main_final_submission: January 18, 2026
+secondary_deadline: March 27, 2026
+student_activity_registration_deadline: March 27, 2026
 
 paper_contact_name: Ron McCleary
 paper_contact_email: ron.mccleary@yahoo.com
 
-panels_contact_name: TBA (panels contact)
-panels_contact_email: TBA
+panels_contact_name: Brian Hare
+panels_contact_email: hareb@umkc.edu
 
-nifty_contact_name: TBA (nifty contact)
-nifty_contact_email: TBA
+nifty_contact_name: Brian Hare
+nifty_contact_email: hareb@umkc.edu
 
-lightning_contact_name: TBA (lightning contact)
-lightning_contact_email: TBA
+lightning_contact_name: Wen Hsin
+lightning_contact_email: wen.hsin@park.edu
 
-k12_contact_name: TBA (k12 contact)
-k12_contact_email: TBA
+k12_contact_name: Bill Siever
+k12_contact_email: bsiever@gmail.com
 
 vendor_silver_cost: $50
 vendor_cost: $135
-vendor_contact_name: TBA (vendor contact)
-vendor_contact_email: TBA
+vendor_contact_name: Scott Sigman
+vendor_contact_email: ssigman@drury.edu
 
-reviewer_contact_name: TBA (reviewer contact)
-reviewer_contact_email: TBA
+reviewer_contact_name: Ron McCleary
+reviewer_contact_email: ron.mccleary@yahoo.com
 
-hackathon_start: TBA (hackathon start date)
+hackathon_start: February 20, 2026
 hackathon_start_time: 6:00pm
-hackathon_end: TBA (hackathon start date)
+hackathon_end: February 22, 2026
 hackathon_end_time: 6:00pm
-hackathon_contact_name: TBA (hackathon contact)
-hackathon_contact_email: TBA
-hackathon_registration_deadline: TBA (hackathon deadline)
+hackathon_contact_name: Scott Sigman
+hackathon_contact_email: ssigman@drury.edu
+hackathon_registration_deadline: February 6, 2026
 
 last_year_poster_link: ../../2025/sessions/PosterContest/
 
-poster_contact_name: TBA (poster contact)
-poster_contact_email: TBA
-poster_web_form: TBA
+poster_contact_name: Joseph Kendall-Morwick
+poster_contact_email: Joseph.Kendall-Morwick@washburn.edu
+poster_web_form: https://forms.gle/hxzw5TyYBpTBiEKG9
 
-student_paper_web_form: TBA
-student_paper_contact_name: TBA (student paper contact)
-student_paper_contact_email: TBA
+student_paper_web_form: https://forms.gle/YqAXQFEs4m5EnDBaA
+student_paper_contact_name: Scott Sigman
+student_paper_contact_email: ssigman@drury.edu
 
 student_full_cost: $70
 student_saturday_only_cost: $30
 
-programming_contest_contact_name: TBA (programming contest contact)
-programming_contest_contact_email: TBA
+programming_contest_contact_name: Charles Riedesel
+programming_contest_contact_email: chuckr@unl.edu

@@ -18,7 +18,7 @@ permalink: /students/programming-contest.html
 * Contestant and Coach names and emails
 * Intended languages (select from C/C++, Java, Python 3), compilers/interpreters (some compilers such as Microsoft have implications), and operating systems (select from Windows, Mac OS, Unix)
 * Affirmation of competing under the Code of Honor system
-* Please have your coach or one team member register your team by sending an email to chuckr@unl.edu and indicate in the email subject line CCSC Programming Contest Team Registration. Include the following in the email.
+* Please have your coach or one team member register your team by sending an email to [{{site.data.variables.programming_contest_contact_name}}](mailto:{{site.data.variables.programming_contest_contact_email}}) and indicate in the email subject line *CCSC Programming Contest Team Registration*. Include the following in the email.
 * Each contestant and coach must individually register for the conference. If needed, instructions for how to process a single payment for a group are on the registration page.
 
 ## Registration Details:
